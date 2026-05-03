@@ -1,9 +1,16 @@
-# utkrisht kumar
+# Hi, I'm Utkrisht 👋
+
 Backend Engineer | Java | Spring Boot | Microservices | AWS
 
-I build scalable backend systems using Java & Spring Boot.
-Experience in REST APIs, Docker, Kubernetes, and cloud deployment.
+## 🚀 Skills
+- Java, Spring Boot
+- Microservices
+- Docker, Kubernetes
+- AWS
 
-Projects:
-- Microservices Platform (Spring Boot + Docker)
+## 🔥 Projects
+- Microservices Platform (coming soon)
 - Hotel Booking System
+
+## 📫 Contact
+- LinkedIn
